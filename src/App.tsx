@@ -7,7 +7,7 @@ export default function App() {
   const [count, setCount] = useState(0);
   return (
     <div className="App">
-      <h1>You clicked {count} times</h1>
+      <p>You clicked {count} times</p>
       <button onClick={() => setCount(count + 1)}>+</button>
     </div>
   );

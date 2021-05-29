@@ -5,7 +5,7 @@
 }
 
 .App button {
-  width: 200px;
+  width: 210px;
   height: 100px;
   border: none;
   color: #dee3ea;
@@ -18,5 +18,11 @@
 }
 
 .App button:hover {
-  box-shadow: inset 200px 0 0 0 #fd4d4d;
+  box-shadow: inset 220px 0 0 0 #fd4d4d;
+}
+
+.App p {
+  font-size: 1.5rem;
+  font-weight: 500;
+  color: white;
 }
