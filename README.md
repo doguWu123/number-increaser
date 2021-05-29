@@ -1,2 +1,2 @@
-# name-generator
-Created with CodeSandbox
+# number-increaser
+Built with Typecript and React!
