@@ -1,2 +1,2 @@
-# number-increaser
+# name-generator
 Created with CodeSandbox
